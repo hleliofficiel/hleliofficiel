@@ -1,5 +1,50 @@
-# 💫 About Me:
-👋 Hi there, I’m Mohammed Hleli<br><br>I’m a passionate AI architect, full-stack developer, and cybersecurity expert from Tunisia — building intelligent systems and future-proof platforms for global impact.<br>My mission is to combine clean code, smart infrastructure, and cutting-edge AI to solve real-world problems.<br><br>📌 About Me<br><br>🔭 I’m currently working on<br>Building IdrakAI‑Alpha — a next-generation AI platform blending chat, coding agents, and SaaS intelligence.<br><br>👯 I’m looking to collaborate on<br>AI tools, full-stack web platforms, cybersecurity solutions, and open-source projects that push the limits.<br><br>🤝 I’m looking for help with<br>Forming a dedicated dev team to scale IdrakAI‑Alpha, integrate new AI models, and optimize backend/frontend architecture.<br><br>🌱 I’m currently learning<br>Advanced multi-agent systems, real-time infrastructure scaling, and distributed model training on HPC.<br><br>💬 Ask me about<br>Building AI from scratch, Laravel + Vue full-stack apps, securing production systems, or launching scalable SaaS.<br><br>⚡ Fun fact<br>I’ve worked with clients across Europe, the Gulf, North Africa, and North America — and I love turning complex ideas into elegant tech solutions.<br>
+
+<h1 align="center">💫 Mohammed Hleli</h1>
+<p align="center">
+  <strong>AI Architect | Full-Stack Engineer | Cybersecurity Specialist | Cloud & DevOps Expert</strong><br>
+  <em>I don't just write code… I engineer impact.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Architect-informational?style=flat&logo=ai&color=blue" />
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-success?style=flat&logo=javascript&color=green" />
+  <img src="https://img.shields.io/badge/Cyber-Security-critical?style=flat&logo=protonmail&color=red" />
+  <img src="https://img.shields.io/badge/Cloud-Infrastructure-yellow?style=flat&logo=cloudflare&color=orange" />
+</p>
+
+## 💫 About Me
+
+👋 **Hi there, I’m Mohammed Hleli**
+
+I’m not just a developer — I’m a complete **tech powerhouse**.  
+A passionate **AI architect**, elite **full-stack engineer**, **cybersecurity specialist**, **cloud & infrastructure expert**, and **software designer** — all in one.
+
+From designing stunning interfaces to training custom AI models, from securing server stacks to crafting scalable web apps —  
+I turn raw ideas into production-ready, world-class tech solutions.
+
+Born in **Tunisia**, trusted by clients across the globe 🌍.
+
+
+## 📌 My Current Journey
+
+🔭 **Currently working on:**  
+Leading the development of **IdrakAI‑Alpha** — a groundbreaking AI ecosystem combining smart chat, coding agents, AI APIs, and full SaaS capabilities.
+
+👯 **Looking to collaborate on:**  
+Bold projects in AI, cybersecurity, dev tools, scalable platforms, and futuristic software.
+
+🤝 **Seeking help with:**  
+Assembling a **core team** of visionary developers, AI engineers, and UI/UX designers to elevate **IdrakAI‑Alpha** and launch next-level tech experiences.
+
+🌱 **Currently learning:**  
+Next-gen distributed AI training on **HPC clusters**, **autonomous agent orchestration**, and **cloud-native backend scaling**.
+
+💬 **Ask me about:**  
+How to build powerful AI from zero, how to secure web apps like a pro, how to architect systems that scale, or how to dominate with **Laravel**, **Vue**, and modern stacks.
+
+⚡ **Fun fact:**  
+I design, build, deploy, secure, and scale — across the full spectrum of the tech stack.  
+**I don’t just write code… I engineer impact.**
 
 
 ## 🌐 Socials:
