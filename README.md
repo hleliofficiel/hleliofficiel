@@ -14,23 +14,35 @@
 
 ## 💫 About Me
 
-👋 **Hi there, I’m Mohammed Hleli**
+👋 **Hi, I’m Mohammed Hleli** — a multi-disciplinary tech innovator from Tunisia 🇹🇳
 
-I’m not just a developer — I’m a complete **tech powerhouse**.  
-A passionate **AI architect**, elite **full-stack engineer**, **cybersecurity specialist**, **cloud & infrastructure expert**, and **software designer** — all in one.
+I’m not limited to one field — I **master them all**.
 
-From designing stunning interfaces to training custom AI models, from securing server stacks to crafting scalable web apps —  
-I turn raw ideas into production-ready, world-class tech solutions.
+I'm a **full-stack developer**, **AI systems architect**, **server & infrastructure expert**, **UI/UX designer**, and **software engineer** with deep experience across the tech spectrum.  
+Whether it's the **web, mobile, desktop, cloud**, or **HPC environments**, I deliver high-performance, secure, and elegant digital solutions.
 
-Born in **Tunisia**, trusted by clients across the globe 🌍.
+With a proven track record of working on **global-scale projects**, I’ve helped clients across continents **build intelligent platforms, design robust software**, and **scale infrastructure with confidence**.
 
+---
+
+### 🔍 What I Do Best
+
+- 🧠 **AI & Machine Learning**: Training & deploying custom models (NLP, vision, LLMs)
+- 💻 **Software Development**: Web, mobile, and desktop applications — end to end
+- 🌐 **Full-Stack Engineering**: Laravel, Vue, React, Node, Tailwind, REST APIs & more
+- ☁️ **Infrastructure & DevOps**: Managing servers, cloud platforms, HPC clusters, CI/CD pipelines
+- 🛡️ **Cybersecurity**: Building secure systems from the ground up
+- 🎨 **UI/UX & Product Design**: Crafting smooth, modern, user-centered experiences
+
+> I don’t just code — I design, build, train, secure, and scale.  
+> From low-level infrastructure to high-level AI reasoning — I do it all.
 
 ## 📌 My Current Journey
 
 🔭 **Currently working on:**  
 Leading the development of **IdrakAI‑Alpha** — a groundbreaking AI ecosystem combining smart chat, coding agents, AI APIs, and full SaaS capabilities.
 
-👯 **Looking to collaborate on:**  
+👯 **Lookincollaborateorate on:**  
 Bold projects in AI, cybersecurity, dev tools, scalable platforms, and futuristic software.
 
 🤝 **Seeking help with:**  
